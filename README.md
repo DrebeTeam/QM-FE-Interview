@@ -1,16 +1,16 @@
 # 七梦前端面试真题题库
-包含Html、Css、JavaScript、Vue、React、Node、算法、网络与安全。
 <div align="center">
-   <a href="https://github.com/lgwebdream/FE-Interview/issues">
-   <img alt="GitHub issues" src="https://img.shields.io/github/issues/lgwebdream/FE-Interview?color=success">
-   </a>
-   <a href="https://github.com/lgwebdream/FE-Interview/network">
-   <img alt="GitHub forks" src="https://img.shields.io/github/forks/lgwebdream/FE-Interview?color=success">
-   </a>
-   <a href="https://github.com/lgwebdream/FE-Interview/stargazers">
-   <img alt="GitHub stars" src="https://img.shields.io/github/stars/lgwebdream/FE-Interview?color=success">
-   </a>
+    <a href="https://github.com/DrebeTeam/QM-FE-Interview/issues">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/DrebeTeam/QM-FE-Interview?label=question&style=social">
+    </a>
+    <a href="https://github.com/DrebeTeam/QM-FE-Interview/stargazers">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/DrebeTeam/QM-FE-Interview?style=social">
+    </a>
+    <a href="https://github.com/DrebeTeam/QM-FE-Interview/network">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/DrebeTeam/QM-FE-Interview?style=social">
+    </a>
 </div>
+
 
 > 每周工作日更新 (休息就该休息啊 混蛋)
 
