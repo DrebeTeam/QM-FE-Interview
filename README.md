@@ -11,14 +11,21 @@
     src="https://github.com/QMcoder/QM-IMG/blob/main/QM-DREBE/LOGO-2.png" width="300px">
 </div>
 
-> 每周工作日更新 (休息就该休息啊 混蛋)
+> 每周工作日更新 (周末该休息就休息啊 混蛋)
 
 ## 面试题快速入口
-##### - [算法面试题](https://github.com/QMcoder/QM-FE-Interview/tree/main/Algorithm)
-##### - [CSS面试题](https://github.com/QMcoder/QM-FE-Interview/tree/main/CSS)
-##### - [HTML面试题](https://github.com/QMcoder/QM-FE-Interview/tree/main/HTML)
-##### - [Javascript面试题](https://github.com/QMcoder/QM-FE-Interview/tree/main/Javascript)
-##### - [NetWork面试题](https://github.com/QMcoder/QM-FE-Interview/tree/main/NetWork)
-##### - [Node面试题](https://github.com/QMcoder/QM-FE-Interview/tree/main/Node)
-##### - [React面试题](https://github.com/QMcoder/QM-FE-Interview/tree/main/React)
-##### - [Vue面试题](https://github.com/QMcoder/QM-FE-Interview/tree/main/Vue)
+
+##### :goat: [算法面试题](https://github.com/QMcoder/QM-FE-Interview/tree/main/Algorithm)
+##### :rabbit2: [CSS面试题](https://github.com/QMcoder/QM-FE-Interview/tree/main/CSS)
+##### :mouse2: [HTML面试题](https://github.com/QMcoder/QM-FE-Interview/tree/main/HTML)
+##### :poodle: [Javascript面试题](https://github.com/QMcoder/QM-FE-Interview/tree/main/Javascript)
+##### :whale2: [NetWork面试题](https://github.com/QMcoder/QM-FE-Interview/tree/main/NetWork)
+##### :sheep: [Node面试题](https://github.com/QMcoder/QM-FE-Interview/tree/main/Node)
+##### :hatched_chick: [React面试题](https://github.com/QMcoder/QM-FE-Interview/tree/main/React)
+##### :panda_face: [Vue面试题](https://github.com/QMcoder/QM-FE-Interview/tree/main/Vue)
+
+## 学习交流
+- 内容待补充
+
+## 资源获取
+- 内容待补充
