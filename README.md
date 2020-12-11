@@ -1,14 +1,8 @@
 # 七梦前端面试真题题库
 <div align="center">
-    <a href="https://github.com/DrebeTeam/QM-FE-Interview/issues">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/DrebeTeam/QM-FE-Interview?label=question&style=social">
-    </a>
-    <a href="https://github.com/DrebeTeam/QM-FE-Interview/stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/DrebeTeam/QM-FE-Interview?style=social">
-    </a>
-    <a href="https://github.com/DrebeTeam/QM-FE-Interview/network">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/DrebeTeam/QM-FE-Interview?style=social">
-    </a>
+    <a href="https://github.com/DrebeTeam/QM-FE-Interview/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/DrebeTeam/QM-FE-Interview?color=%2328a5e1&label=question"></a>
+    <a href="https://github.com/DrebeTeam/QM-FE-Interview/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/DrebeTeam/QM-FE-Interview?color=%2328a5e1"></a>
+    <a href="https://github.com/DrebeTeam/QM-FE-Interview/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/DrebeTeam/QM-FE-Interview?color=%2328a5e1"></a>
 </div>
 
 
