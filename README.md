@@ -15,14 +15,14 @@
 > 每周工作日更新 (周末该休息就休息啊 混蛋)
 ## 面试题快速入口
 
-#### :wolf: [算法面试题](https://github.com/QMcoder/QM-FE-Interview/tree/main/Algorithm)
-#### :rabbit2: [CSS面试题](https://github.com/QMcoder/QM-FE-Interview/tree/main/CSS)
-#### :mouse2: [HTML面试题](https://github.com/QMcoder/QM-FE-Interview/tree/main/HTML)
-#### :poodle: [Javascript面试题](https://github.com/QMcoder/QM-FE-Interview/tree/main/Javascript)
-#### :whale2: [NetWork面试题](https://github.com/QMcoder/QM-FE-Interview/tree/main/NetWork)
-#### :sheep: [Node面试题](https://github.com/QMcoder/QM-FE-Interview/tree/main/Node)
-#### :hatched_chick: [React面试题](https://github.com/QMcoder/QM-FE-Interview/tree/main/React)
-#### :panda_face: [Vue面试题](https://github.com/QMcoder/QM-FE-Interview/tree/main/Vue)
+#### :wolf: [算法面试题](https://github.com/DrebeTeam/QM-FE-Interview/tree/main/Algorithm)
+#### :rabbit2: [CSS面试题](https://github.com/DrebeTeam/QM-FE-Interview/tree/main/CSS)
+#### :mouse2: [HTML面试题](https://github.com/DrebeTeam/QM-FE-Interview/tree/main/HTML)
+#### :poodle: [Javascript面试题](https://github.com/DrebeTeam/QM-FE-Interview/tree/main/Javascript)
+#### :whale2: [NetWork面试题](https://github.com/DrebeTeam/QM-FE-Interview/tree/main/Network)
+#### :sheep: [Node面试题](https://github.com/DrebeTeam/QM-FE-Interview/tree/main/Node)
+#### :hatched_chick: [React面试题](https://github.com/DrebeTeam/QM-FE-Interview/tree/main/React)
+#### :panda_face: [Vue面试题](https://github.com/DrebeTeam/QM-FE-Interview/tree/main/Vue)
 
 ## 学习交流
 - 自学交流群一起做题
