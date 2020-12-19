@@ -11,7 +11,9 @@
     src="https://github.com/QMcoder/QM-IMG/blob/main/QM-DREBE/QM-github.png" width="300px">
 </div>
 
-七梦是一个前端自学者的集合地。欢迎大家加入我们, 一起讨论交流、保持学习,每天进步！ 
+七梦Coder是一个前端自学者的集合地。欢迎大家加入我们, 一起讨论交流、保持学习,每天进步！ 
+
+如果有帮助请给本项目一个star支持一下吧:heart:
 > 每周工作日更新 (周末该休息就休息啊 混蛋)
 ## 面试题快速入口
 
